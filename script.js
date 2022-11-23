@@ -34,5 +34,3 @@ function beerSong(){//begin with function give more control on js code
 		}
 	}
 }//close function
-
-/* console.log(beerSong());  */
